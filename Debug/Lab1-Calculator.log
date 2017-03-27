@@ -1,0 +1,15 @@
+﻿  Lab1-Calculator.cpp
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(49): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(65): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(96): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(101): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(134): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(156): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(199): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(218): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(238): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(252): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(273): warning C4018: '<': signed/unsigned mismatch
+f:\·2017spring·\programming\projects\lab1\lab1-calculator\lab1-calculator\lab1-calculator.cpp(286): warning C4018: '<': signed/unsigned mismatch
+  Lab1-Calculator.vcxproj -> F:\·2017Spring·\Programming\Projects\Lab1\Lab1-Calculator\Debug\Lab1-Calculator.exe
+  Lab1-Calculator.vcxproj -> F:\·2017Spring·\Programming\Projects\Lab1\Lab1-Calculator\Debug\Lab1-Calculator.pdb (Full PDB)
